@@ -1,0 +1,15 @@
+D:\邮政\sh_cgxt\sh_cgxt\bin\Debug\sh_cgxt.exe.config
+D:\邮政\sh_cgxt\sh_cgxt\bin\Debug\sh_cgxt.exe
+D:\邮政\sh_cgxt\sh_cgxt\bin\Debug\sh_cgxt.pdb
+D:\邮政\sh_cgxt\sh_cgxt\bin\Debug\MySql.Data.dll
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.csprojResolveAssemblyReference.cache
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.Properties.Resources.resources
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.csproj.GenerateResource.Cache
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.exe
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.pdb
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.employee_add.resources
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.main.resources
+D:\邮政\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.commodity_add.resources
+D:\post\sh_cgxt\sh_cgxt\bin\Debug\sh_cgxt.exe.config
+D:\post\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.exe
+D:\post\sh_cgxt\sh_cgxt\obj\Debug\sh_cgxt.pdb
