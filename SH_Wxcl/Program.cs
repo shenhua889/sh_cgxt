@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace sh_cgxt
+namespace SH_Wxcl
 {
     static class Program
     {
@@ -16,7 +14,7 @@ namespace sh_cgxt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new main());
+            Application.Run(new Form1());
         }
     }
 }
